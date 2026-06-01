@@ -3,11 +3,11 @@
 
 
 #define MyAppName "DevisMHU"
-#define MyAppVersion "20.9.3.0"
+#define MyAppVersion "20.9.4.0"
 #define MyAppPublisher "MHU"
 #define MyAppURL "http://www.mhu.fr"
 #define MyAppExeName "devismhu.exe"
-#define Mysetupname "majdevis_20-9-3-0"
+#define Mysetupname "majdevis_20-9-4-0"
 #define MyOption ""
 
 
